@@ -1,4 +1,4 @@
-# jump and Run
+# Jump and Run
 A simple space ship game where you try to avoid all the asteroids. This game is made with PlayCanvas Engine. 
 You can access it through this [link](https://playcanvas.com/project/495306/overview/jump-and-run).
 
